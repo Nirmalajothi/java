@@ -146,7 +146,7 @@ public class user extends JFrame {
 		});
 		click.setBackground(Color.GRAY);
 		click.setForeground(Color.BLACK);
-		click.setFont(new Font("Times New Roman", Font.BOLD, 13));
+		
 		click.setBounds(175, 258, 89, 23);
 		panel.add(click);
 
